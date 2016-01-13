@@ -51,7 +51,7 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 418,
+				"buffer_size": 51,
 				"line_ending": "Unix"
 			}
 		}
@@ -63,10 +63,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 267.0,
-		"last_filter": "pack",
+		"height": 202.0,
+		"last_filter": "view",
 		"selected_items":
 		[
+			[
+				"view",
+				"View: Toggle Menu"
+			],
 			[
 				"pack",
 				"Package Control: Install Package"
@@ -74,10 +78,6 @@
 			[
 				"pac",
 				"Preferences: Browse Packages"
-			],
-			[
-				"view",
-				"View: Toggle Menu"
 			]
 		],
 		"width": 431.0
@@ -107,7 +107,7 @@
 	},
 	"expanded_folders":
 	[
-		"/home/cyberbeast/Documents/faddish"
+		"/home/cyberbeast/Documents/fadworthy"
 	],
 	"file_history":
 	[
@@ -262,15 +262,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 418,
+						"buffer_size": 51,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								418,
-								418
+								0,
+								0
 							]
 						],
 						"settings":
@@ -341,13 +341,13 @@
 			1.0
 		]
 	},
-	"menu_visible": false,
+	"menu_visible": true,
 	"output.find_results":
 	{
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "faddish.sublime-project",
+	"project": "fadworthy.sublime-project",
 	"replace":
 	{
 		"height": 46.0
@@ -380,7 +380,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 2,
 	"settings":
 	{
 	},
