@@ -1,2 +1,2 @@
-# faddish
+# fadworthy
 Custom Survey framework for TEDxPESITBSC
